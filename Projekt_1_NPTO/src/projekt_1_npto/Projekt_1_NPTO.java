@@ -24,6 +24,12 @@ public class Projekt_1_NPTO {
         }
         
         tab[4] = 999;
+        System.out.println(tab[4]);
+        
+        String abc;
+        abc = "zielone markizy";
+        
+        
     }
     
 }
