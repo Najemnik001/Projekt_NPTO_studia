@@ -31,7 +31,10 @@ public class Projekt_1_NPTO {
         
         System.out.println(abc);
         
-        
+        for(int i = 0; i<N; i++){
+            tab[i] = tab[i] + 3;
+            System.out.println(tab[i]);
+        }
     }
     
 }
