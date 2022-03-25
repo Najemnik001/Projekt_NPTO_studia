@@ -22,6 +22,8 @@ public class Projekt_1_NPTO {
             tab[i] = rand.nextInt(20);
             System.out.println(tab[i]);
         }
+        
+        tab[4] = 999;
     }
     
 }
