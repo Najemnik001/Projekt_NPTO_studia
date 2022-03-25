@@ -29,6 +29,8 @@ public class Projekt_1_NPTO {
         String abc;
         abc = "zielone markizy";
         
+        System.out.println(abc);
+        
         
     }
     
